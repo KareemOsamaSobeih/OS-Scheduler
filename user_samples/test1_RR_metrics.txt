@@ -1,0 +1,9 @@
+  process number    Waiting-time    Turnaround-time    Weighted-Turnaround-time
+----------------  --------------  -----------------  --------------------------
+               1               4                  7                     2.33333
+               2              15                 20                     4
+               3               5                  7                     3.5
+               4              15                 20                     4
+               5              14                 19                     3.8
+Average turnaround time: 14.6
+Average weighted turnaround time: 3.5266666666666664
